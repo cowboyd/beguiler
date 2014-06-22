@@ -1,5 +1,6 @@
 require "beguiler/version"
 
 module Beguiler
-  # Your code goes here...
+  require "beguiler/native"
+  require "beguiler/context"
 end
